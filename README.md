@@ -1,3 +1,16 @@
+# 分享一些有用的软件和工具
+
+-   [开发者工具](#开发者工具)
+-   [协作工具](#协作工具)
+-   [移动端调试抓包工具](#移动端调试抓包工具)
+-   [效率工具](#效率工具)
+-   [Chrome 插件](#Chrome插件)
+-   [还原 UI 设计稿](#还原UI设计稿)
+-   [文档处理](#文档处理)
+-   [下载音乐](#下载音乐)
+-   [搜书](#搜书)
+-   [其他实用工具](#其他实用工具)
+
 ## 开发者工具
 
 -   [VSCode](https://code.visualstudio.com/) - 主流前端开发 IDE，插件丰富
@@ -6,7 +19,7 @@
 -   [TortoiseGit](https://tortoisegit.org/) - Git 图形客户端，集成 Shell 工具包.
 -   [Xampp](https://www.apachefriends.org/index.html)- Apache 网站开发环境
 
-## 协作
+## 协作工具
 
 -   [蓝湖](https://lanhuapp.com/) - 产品文档和设计图的共享平台
 -   [Xmind Zen](https://www.xmind.cn/zen/) - 非常好看好用的思维导图
@@ -39,7 +52,7 @@
 -   [Pxcook](https://www.fancynode.com.cn/pxcook) - 高效易用的自动标注工具, 生成前端代码, 设计研发协作利器
 -   [Cutterman](http://www.cutterman.cn/zh/cutterman) - 最好用的切图工具
 
-## 文档
+## 文档处理
 
 -   [md 转 pdf](http://www.mdtr2pdf.com/index.html)
 -   [Neat Reader](https://www.neat-reader.cn/) - 好用好看的电子书阅读器，只支持 epub 格式
@@ -47,7 +60,7 @@
 -   [ISlide](https://www.islide.cc/) - PPT 插件工具，辅助设计
 -   [Hipdf](https://www.hipdf.cn/) - 一站式在线 PDF 解决方案
 
-## 音乐
+## 下载音乐
 
 -   [Mp3juices](https://www.mp3juices.cc/) - 一个流行的免费 mp3 搜索引擎和工具
 
@@ -68,3 +81,11 @@
 -   [工具箱](http://www.atoolbox.net/) - 工具集合
 -   [Gifffer](https://github.com/krasimir/gifffer) - 控制 gif 的播放
 -   [Tinypng](https://tinypng.com/) - 无损压缩图片
+-   [智图](https://zhitu.isux.us/) - 图片压缩，支持 webp
+
+## 参考
+
+-   [Chrome 插件英雄榜](https://zhaoolee.gitbooks.io/chrome/content/031onetab300b-ba-duo-ge-tab-zhuan-huan-wei-yi-ge-lie-biao.html)
+-   [谷歌插件](http://chromecj.com/)
+-   [Windows 上优质&精选的最佳应用程序及工具列表荐](https://github.com/Awesome-Windows/Awesome/blob/master/README-cn.md)
+-   [测试工具推荐](https://github.com/xitu/front-end-handbook-2017/blob/zh-Hans/tools/testing.md)
