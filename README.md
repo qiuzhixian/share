@@ -1,6 +1,6 @@
-# 分享一些有用的软件和工具
+## 非常实用的软件和工具
 
--   [开发者工具](#开发者工具)
+-   [开发工具](#开发工具)
 -   [协作工具](#协作工具)
 -   [移动端调试抓包工具](#移动端调试抓包工具)
 -   [效率工具](#效率工具)
@@ -11,13 +11,22 @@
 -   [搜书](#搜书)
 -   [其他实用工具](#其他实用工具)
 
-## 开发者工具
+## 开发工具
 
 -   [VSCode](https://code.visualstudio.com/) - 主流前端开发 IDE，插件丰富
 -   [Git](https://git-scm.com/) - 代码版本控制
 -   [Github](https://github.com/) - 代码托管平台
 -   [TortoiseGit](https://tortoisegit.org/) - Git 图形客户端，集成 Shell 工具包.
 -   [Xampp](https://www.apachefriends.org/index.html)- Apache 网站开发环境
+-   [转换图片为 Base64 编码](http://www.fishlee.net/tools/getimagebase64code#codeResult)
+-   [beyondCompare](http://www.scootersoftware.com/) - 代码对比工具
+-   [时间戳转换工具](http://tool.lu/timestamp)
+-   [Prettier 一个前端的代码格式化工具](https://prettier.io/)
+-   [fs-extra](https://www.npmjs.com/package/fs.extra) - 一个更好的 fs（文件流模块），拥有额外的方法和 Promise 支持。
+
+## VScode 插件
+
+-   [Setting Sync]() - 可以将插件配置保存到 GitHub 上，方便以后从 GitHub 上同步自己配置的插件
 
 ## 协作工具
 
@@ -37,6 +46,7 @@
 -   [Everything](https://www.voidtools.com/zh-cn/downloads/) - 最快的文件/文件夹搜索工具， 通过名称搜索
 -   [Viscosity](https://www.sparklabs.com/viscosity/download/) - 全功能的 OpenVPN 客户端，适用于企业部署
 -   [ENCRYPTO](https://macpaw.com/encrypto) - 优雅地加密你的文件
+-   [ngrok](https://github.com/inconshreveable/ngrok) - 将本地某个端口的服务，映射到公网的一个地址，不用部署应用到外网，别人就可以访问你的服务
 
 ## Chrome 插件
 
@@ -51,6 +61,7 @@
 
 -   [Pxcook](https://www.fancynode.com.cn/pxcook) - 高效易用的自动标注工具, 生成前端代码, 设计研发协作利器
 -   [Cutterman](http://www.cutterman.cn/zh/cutterman) - 最好用的切图工具
+-   [设置渐变背景色](http://www.colorzilla.com/gradient-editor/)
 
 ## 文档处理
 
@@ -82,6 +93,8 @@
 -   [Gifffer](https://github.com/krasimir/gifffer) - 控制 gif 的播放
 -   [Tinypng](https://tinypng.com/) - 无损压缩图片
 -   [智图](https://zhitu.isux.us/) - 图片压缩，支持 webp
+-   [asciinema](https://asciinema.org) - 录制终端演示，生成高质量的代码样式和截屏
+-   [ScreenToGif](https://www.screentogif.com/) - 屏幕录屏并生成 gif
 
 ## 参考
 
@@ -89,3 +102,6 @@
 -   [谷歌插件](http://chromecj.com/)
 -   [Windows 上优质&精选的最佳应用程序及工具列表荐](https://github.com/Awesome-Windows/Awesome/blob/master/README-cn.md)
 -   [测试工具推荐](https://github.com/xitu/front-end-handbook-2017/blob/zh-Hans/tools/testing.md)
+-   [推荐一些好用的 JavaScript 库](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247488653&idx=1&sn=f8ce0b6b2ac6528be2c2d95d7e9da993&chksm=f951a1cece2628d877ade45c9508566a958c7f6518c2a47da9e07456505eb6baf353c1e7f9f8&scene=0#rd)
+-   [VSCode 拓展推荐（前端开发）](https://github.com/varHarrie/varharrie.github.io/issues/10)
+-   [vscode 前端插件推荐](#https://juejin.im/entry/59f6e2266fb9a0451a75a99a)
