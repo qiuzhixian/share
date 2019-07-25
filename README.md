@@ -103,5 +103,4 @@
 -   [Windows 上优质&精选的最佳应用程序及工具列表荐](https://github.com/Awesome-Windows/Awesome/blob/master/README-cn.md)
 -   [测试工具推荐](https://github.com/xitu/front-end-handbook-2017/blob/zh-Hans/tools/testing.md)
 -   [推荐一些好用的 JavaScript 库](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247488653&idx=1&sn=f8ce0b6b2ac6528be2c2d95d7e9da993&chksm=f951a1cece2628d877ade45c9508566a958c7f6518c2a47da9e07456505eb6baf353c1e7f9f8&scene=0#rd)
--   [VSCode 拓展推荐（前端开发）](https://github.com/varHarrie/varharrie.github.io/issues/10)
--   [vscode 前端插件推荐](#https://juejin.im/entry/59f6e2266fb9a0451a75a99a)
+-   [VSCode 拓展推荐](https://github.com/varHarrie/varharrie.github.io/issues/10)
