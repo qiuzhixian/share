@@ -10,6 +10,7 @@
 -   [下载音乐](#下载音乐)
 -   [搜书](#搜书)
 -   [其他实用工具](#其他实用工具)
+-   [学习网站](#学习网站)
 
 ## 开发工具
 
@@ -95,6 +96,12 @@
 -   [智图](https://zhitu.isux.us/) - 图片压缩，支持 webp
 -   [asciinema](https://asciinema.org) - 录制终端演示，生成高质量的代码样式和截屏
 -   [ScreenToGif](https://www.screentogif.com/) - 屏幕录屏并生成 gif
+
+## 学习网站
+
+-   [如何吧](https://www.ruhe8.com/) - 学习 Excel、Word、PPT、PS 的操作技巧
+-   [知识导图社区](https://zhimap.com/gallery) - 免费的的高质量在线思维导图网站
+-   [TesterHome 软件测试社区](https://testerhome.com/) - TesterHome 软件测试社区,人气最旺的软件测试技术门户,提供软件测试社区交流,测试沙龙
 
 ## 参考
 
