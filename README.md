@@ -9,8 +9,8 @@
 -   [文档处理](#文档处理)
 -   [下载音乐](#下载音乐)
 -   [搜书](#搜书)
--   [其他实用工具](#其他实用工具)
 -   [学习网站](#学习网站)
+-   [其他](#其他)
 
 ## 开发工具
 
@@ -33,6 +33,7 @@
 
 -   [蓝湖](https://lanhuapp.com/) - 产品文档和设计图的共享平台
 -   [Xmind Zen](https://www.xmind.cn/zen/) - 非常好看好用的思维导图
+-   [Witeboard 「多人在线白板」工具](https://witeboard.com/) - Witeboard 是一款无需注册、即开即用的在线多人协作白板工具。打开网页就是一张屏幕大小的白纸，可以随意在上面写写画画，支持快捷键、自动识别方、圆等功能，分享后能够实时同步、多人协作。
 
 ## 移动端调试抓包工具
 
@@ -60,9 +61,12 @@
 
 ## 还原 UI 设计稿
 
+-   [imgcook由设计稿一键智能生成代码](https://www.imgcook.com/)
 -   [Pxcook](https://www.fancynode.com.cn/pxcook) - 高效易用的自动标注工具, 生成前端代码, 设计研发协作利器
 -   [Cutterman](http://www.cutterman.cn/zh/cutterman) - 最好用的切图工具
 -   [设置渐变背景色](http://www.colorzilla.com/gradient-editor/)
+-   [CSS 三角形生成器](https://www.dute.org/css-arrow) - 生成css三角形的在线工具
+-   [在线PS](view-source:https://ps.gaoding.com/#/) - 在线ps图片处理软件，免下载、免安装，直接在浏览器打开网页版就可随时随地用它修正，调整和美化您的图片
 
 ## 文档处理
 
@@ -82,7 +86,19 @@
 -   [虫部落快搜](https://search.chongbuluo.com/) - 一个搜索导航
 -   [Owllook](https://www.owllook.net/) - 搜索小说
 
-## 其他实用工具
+
+## 学习网站
+
+-   [掘金](https://juejin.im/) - 掘金是一个帮助开发者成长的社区
+-   [凹凸实验室](https://aotu.io/index.html) - 京东团队的技术社区组织
+-   [美团技术团队网站](https://tech.meituan.com/) - 由美团技术团队贡献的技术文档与方案
+-   [张鑫旭的个人网站](https://www.zhangxinxu.com/) - 《CSS世界》作者、阅文集团前端开发大牛
+-   [知识导图社区](https://zhimap.com/gallery) - 免费的的高质量在线思维导图网站
+-   [TesterHome 软件测试社区](https://testerhome.com/) - TesterHome 软件测试社区,人气最旺的软件测试技术门户,提供软件测试社区交流,测试沙龙
+-   [天赋好书](https://www.cntofu.com/) - 分享开源的电子书
+
+
+## 其他
 
 -   [Gifify](https://github.com/vvo/gifify) - 视频转 gif 动图
 -   [Gka](https://github.com/gkajs/gka) - 简单、高效的帧动画生成工具，图片处理工具
@@ -96,12 +112,11 @@
 -   [智图](https://zhitu.isux.us/) - 图片压缩，支持 webp
 -   [asciinema](https://asciinema.org) - 录制终端演示，生成高质量的代码样式和截屏
 -   [ScreenToGif](https://www.screentogif.com/) - 屏幕录屏并生成 gif
-
-## 学习网站
-
--   [如何吧](https://www.ruhe8.com/) - 学习 Excel、Word、PPT、PS 的操作技巧
--   [知识导图社区](https://zhimap.com/gallery) - 免费的的高质量在线思维导图网站
--   [TesterHome 软件测试社区](https://testerhome.com/) - TesterHome 软件测试社区,人气最旺的软件测试技术门户,提供软件测试社区交流,测试沙龙
+-   [让微信排版变nice](https://www.mdnice.com/) - 让排版更好看的编辑器，支持微信公众号、微信、知乎等
+-   [Repic App](https://repic.app/) - 图片压缩工具，需要安装对应的插件，融合业内优秀的开源方案
+-   [freevar](http://connie.freevar.com/) - 免费看VIP大片，将视频地址粘贴到网站然后点击播放即可
+-   [KAYAK客涯](https://www.cn.kayak.com/) - 机票查询及机票比价服务
+-   [天巡网](https://www.tianxun.com) - 为客户提供基于价格和地点的机票搜索比价服务
 
 ## 参考
 
